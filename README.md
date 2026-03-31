@@ -1,18 +1,48 @@
-# kerem_app
+# To-Do List App
 
-A new Flutter project.
-hayal edemiyeceğiniz bir to do list uygulaması.
+A simple and easy-to-use task management application. No need to keep everything in your mind anymore!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Add tasks
+* Delete tasks
+* View task details on a second page
+* Clean and minimal user interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/kullaniciAdi/repoAdi.git
+   ```
+2. Navigate to the project folder:
+
+   ```bash
+   cd repoAdi
+   ```
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+## Usage
+
+* Add tasks from the main page
+* Tap on a task to view its details
+* Delete tasks easily
+
+## Purpose
+
+This project was created to learn Flutter and understand the basics of app development.
